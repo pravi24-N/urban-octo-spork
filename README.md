@@ -1,9 +1,9 @@
 # 🏠 ClearPath Financing
 
 ![Status](https://img.shields.io/badge/Status-In%20Development-orange)
-![Contributions](https://img.shields.io/badge/contributions-welcome-brightgreen)
-![First Repo](https://img.shields.io/badge/First%20Open%20Source%20Project-blue)
-![Stack](https://img.shields.io/badge/React-Python-MySQL-blueviolet)
+![Contributions](https://img.shields.io/badge/Contributions-Welcome-brightgreen)
+![First Repo](https://img.shields.io/badge/Project-First%20Open%20Source-blue)
+![Stack](https://img.shields.io/badge/Stack-React%20%7C%20Python%20%7C%20MySQL-blueviolet)
 
 > **A Privacy-First Mortgage Intelligence System built as a Progressive Web App (PWA).**
 
